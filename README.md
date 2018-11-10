@@ -1,9 +1,0 @@
-# jQuery-Resize-Height
-	function heightDetect() {
-		$(".main_head").css("height", $(window).height());
-	};
-	heightDetect();
-	$(window).resize(function() {
-		heightDetect();
-	});	
-	
